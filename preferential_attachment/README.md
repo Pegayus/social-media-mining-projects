@@ -1,0 +1,1 @@
+Implementation of Preferential Attachment for a graph with 10 inital node and expected degree of 7 and adding 40 more nodes.
