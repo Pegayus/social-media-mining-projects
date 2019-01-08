@@ -1,5 +1,5 @@
 # Collaborative Filtering
-**Caution: Running this code on a normal PC takes time!**
+**Caution: Running this code on a normal PC takes time!** </br>
 Implementation of a movie rating prediction program for both item-based and user-based collaborative filtering on the MovieLens 20M Dataset available [here](http://grouplens.org/datasets/movielens/)
 The program takes as input a user-item matrix (same format as ratings.csv), the neigh-
 borhood size, a user id 'u', and an item-id 'i' .
